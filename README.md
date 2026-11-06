@@ -73,9 +73,11 @@ struct ArticleView: View {
 
 ## Installation
 
+No version is tagged yet, so depend on the `main` branch for now:
+
 ```swift
 dependencies: [
-    .package(url: "https://github.com/haplollc/Apparition.git", from: "0.1.0")
+    .package(url: "https://github.com/haplollc/Apparition.git", branch: "main")
 ]
 ```
 
